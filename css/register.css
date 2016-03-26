@@ -1,0 +1,46 @@
+.register-bg {
+    width:80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    float: left;
+    height: 600px;
+    background: -ms-linear-gradient(top, #1E90FF, #fff); /* IE 10 */
+    background: -moz-linear-gradient(top, #1E90FF, #fff); /*火狐*/
+    background: -webkit-linear-gradient(top,#1E90FF, #fff);   /*Safari5.1 Chrome 10+*/
+}
+.register{
+    width: 66%;
+    height: 450px;
+    position: static;
+}
+.btn-bg{
+    background: -ms-linear-gradient(top, #ffd1a4, #ff8040); /* IE 10 */
+    background: -moz-linear-gradient(top, #ffd1a4, #ff8040); /*火狐*/
+    background: -webkit-linear-gradient(top, #ffd1a4, #ff8040);   /*Safari5.1 Chrome 10+*/
+}
+.register-left{
+    margin: 10px auto;
+    width: 60%;
+    height: 100%;
+    float: left;
+    background-color: #fff;
+    position: relative;
+    z-index: 12;
+    padding: 0;
+    overflow: hidden;
+}
+.register-right{
+    margin: 10px auto;
+    width: 30%;
+    height: 100%;
+    float: right;
+    position: relative;
+    z-index: 12;
+    padding: 0;
+    overflow: hidden;
+}
+.img-position{
+    vertical-align: middle;
+
+   margin-top: 40%;
+}
